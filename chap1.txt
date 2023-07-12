@@ -1,2 +1,7 @@
 git 
+<<<<<<< HEAD
 add_chap4_2
+=======
+
+add_chap4
+>>>>>>> add_chap4
